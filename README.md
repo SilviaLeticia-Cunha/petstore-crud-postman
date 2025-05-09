@@ -43,7 +43,7 @@ pm.test("Status code é 200", function () {
 
 📸 Console Postman
 
-![Console Create](https://raw.githubusercontent.com/SilviaLeticia-Cunha/petstore-crud-postman/main/console-create.png)
+![Console Create](console-create.png)
 
 📁 Arquivos incluídos
 collection.json – Collection exportada do Postman
