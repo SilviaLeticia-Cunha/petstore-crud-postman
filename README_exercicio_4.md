@@ -28,8 +28,7 @@ pm.test("Confirma mensagem de exclusão", function () {
 
 📸 Console Postman
 
-![Console Create](C:\Users\Silvia Leticia\Documents\Formacao QA e Testes\petstore-crud-postman\Exercício 2 read\images\console-create.png)
-
+![Texto Alternativo](console-create_exercicio_4.png)
 ---
 
 ## 📁 Arquivos incluídos
