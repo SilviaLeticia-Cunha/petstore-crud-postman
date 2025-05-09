@@ -28,7 +28,7 @@ pm.test("Verifica se o primeiro nome é Silvia", function () {
 
 📸 Console Postman
 
-![Console Create](C:\Users\Silvia Leticia\Documents\Formacao QA e Testes\petstore-crud-postman\Exercício 2 read\images\console-create.png)
+![Console Create](console-create_exercicio_2.png)
 
 ---
 
