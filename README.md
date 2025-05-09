@@ -16,6 +16,7 @@ let username = `silvia_qa_${timestamp}`;
 pm.environment.set("userId", randomId);
 pm.environment.set("username", username);
 
+console.log("🛠️ Pré-requisito executado:");
 console.log("🛠️ ID:", randomId);
 console.log("🛠️ Username:", username);
 
