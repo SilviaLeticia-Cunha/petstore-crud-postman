@@ -48,7 +48,7 @@ pm.test("Confirma mensagem de atualização", function () {
 });
 
 📸 Console Postman
-![Console Create]()
+![Console Create](console-create_exercicio_3.png)
 
 📁 Arquivos incluídos
 collection.json – Collection exportada do Postman
