@@ -43,7 +43,8 @@ pm.test("Status code é 200", function () {
 
 📸 Console Postman
 
-![alt text](image.png)
+![Postman Console - User Created](images/Captura de tela 2025-05-08 212332.png)
+
 
 📁 Arquivos incluídos
 collection.json – Collection exportada do Postman
